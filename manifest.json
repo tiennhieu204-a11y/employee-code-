@@ -1,0 +1,15 @@
+{
+  "name": "员工码",
+  "short_name": "员工码",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2f3443",
+  "theme_color": "#2f3443",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
